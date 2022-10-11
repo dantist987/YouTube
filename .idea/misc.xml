@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/YouTube/app/src/main/res/drawable/preview_shape.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/YouTube/app/src/main/res/drawable/text_bg.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/YouTube/app/src/main/res/layout/activity_main.xml" value="0.10552536231884058" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/YouTube/app/src/main/res/layout/fragment_internet_inspection.xml" value="0.2074074074074074" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/YouTube/app/src/main/res/layout/fragment_playlist.xml" value="0.10552536231884058" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/YouTube/app/src/main/res/layout/fragment_playlists.xml" value="0.10552536231884058" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/YouTube/app/src/main/res/layout/fragment_playlists_details.xml" value="0.10552536231884058" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/YouTube/app/src/main/res/layout/playlist_item.xml" value="0.30601092896174864" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
